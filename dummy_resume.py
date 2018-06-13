@@ -59,7 +59,7 @@ class Resume:
                   "OwnCloud")
 
     def work_history(self):
-        work = input("Wokrk History: ")
+        work = input("Work History: ")
         start_time = time.strftime("%m/%Y")
         end_time = time.strftime("%m/%Y")
         
